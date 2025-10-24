@@ -643,6 +643,11 @@ border: 1px solid #4f536e;
         position: relative;
         top: 7px;
     }
+       .luckys{
+        padding-left: 10px;
+        position: relative;
+        top: 7px;
+    }
     .crtt{
         padding-left: 150px;
         padding-top: 15px;
@@ -765,7 +770,7 @@ width: 500px;
 
 @media screen and (max-width: 768px ){
     body{
-    
+    max-width: 100%;
     }
     .from{ 
         display: block;
@@ -834,7 +839,7 @@ width: 350px;
         position: relative;
         bottom: -430px;
         
-        width: 330px;
+        width: 300px;
         box-shadow: none;
         
     }
@@ -861,8 +866,8 @@ width: 350px;
     }
     .fring{
         position: relative;
-     top: 570px;
-    right: 35px;
+     top: 580px;
+    right: 30px;
     width: 150px;
     height: 55px;
     z-index: 3;
@@ -876,7 +881,7 @@ width: 350px;
 .tring{
         position: relative;
     bottom: -350px; 
-    left: 215px;
+    left: 160px;
     width: 120px;
     height: 55px;
      z-index: 3;
@@ -894,7 +899,7 @@ width: 350px;
         font-weight: 500;
 }
 .bottle{
-        width: 280px;
+        width: 250px;
         border: 1px solid #4f536e;
         padding: 17px 50px 17px 20px;
         margin: auto;
@@ -943,7 +948,7 @@ width: 350px;
        border-radius: 10px;
        
     
-        width: 350px;
+        width: 320px;
         margin: 0px 20px 30px;
     }
             .doott{
@@ -957,25 +962,25 @@ width: 350px;
         border: 1px solid #4f536e; 
     }
         .yard{
-        width: 300px;
+        width: 290px;
         margin: auto;
-        height:450px ;
+        height:530px ;
         border: 1px solid #4f536e;
         border-radius: 10px;
-        padding: 20px 30px;
+        padding: 20px 10px;
         
         text-align: center;
     }
     .tome{
          text-align: center;
-        width: 200px;
+        width: 190px;
         margin: auto;
         margin-bottom: 20px;
     }
     .temo{
         
          text-align: center;
-        width: 200px;
+        width: 190px;
         margin: auto;
         margin-bottom: 20px;
     }
@@ -1052,17 +1057,19 @@ width: 350px;
     }
     .some{
         text-align: center;
-        width: 250px;
+        width: 200px;
         margin: auto;
         margin-bottom: 20px;
+        margin-left: 18px;
     }
      .some:hover{
         background-color: #8878d4;
     }
     .demo{
         text-align: center;
-        width: 250px;
+        width: 200px;
         margin: auto;
+        margin-left: 18px;
     }
     ul.time, ul.times{
         display: none;
@@ -1144,7 +1151,7 @@ a:hover{
     max-width: 500px;
    }
    h1{
-    font-size: 2.5rem;
+    font-size: 2.3rem;
    }
    .both{
     margin-top: 50px;
