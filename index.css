@@ -832,7 +832,7 @@ width: 350px;
     }
     .img{
         position: relative;
-        bottom: -400px;
+        bottom: -430px;
         
         width: 330px;
         box-shadow: none;
@@ -861,7 +861,7 @@ width: 350px;
     }
     .fring{
         position: relative;
-     top: 530px;
+     top: 570px;
     right: 35px;
     width: 150px;
     height: 55px;
@@ -875,8 +875,8 @@ width: 350px;
 }
 .tring{
         position: relative;
-    bottom: -330px; 
-    left: 220px;
+    bottom: -350px; 
+    left: 215px;
     width: 120px;
     height: 55px;
      z-index: 3;
@@ -998,6 +998,7 @@ width: 350px;
     .dass{
         position: absolute;
         top: 80px;
+         margin-left: 14px; 
     }
     .day{
         height: 150px;
@@ -1054,6 +1055,9 @@ width: 350px;
         width: 250px;
         margin: auto;
         margin-bottom: 20px;
+    }
+     .some:hover{
+        background-color: #8878d4;
     }
     .demo{
         text-align: center;
