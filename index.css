@@ -925,7 +925,7 @@ width: 350px;
         grid-template-columns: repeat(3, 1fr);
         grid-column: 1/4;
         grid-row: 1/5;
-         background-color:rgba(26, 30, 42) ;  
+          
         margin-bottom: 100px;
         margin-top: 60px;
     }
@@ -947,9 +947,10 @@ width: 350px;
        border: 1px solid #4f536e;
        border-radius: 10px;
        
+       
     
         width: 320px;
-        margin: 0px 20px 30px;
+        margin: 0px 20px 30px 25px;
     }
             .doott{
                
